@@ -18,27 +18,7 @@
 			<link rel="stylesheet" href="css/style-n1.css" />
 		</noscript>
 	</head>
-	<body class="homepage">
-<script>
-var userId = "userid1";
-dataLayer = [{
-    "platform": "desktop"
-}];
-var products = [{"color": "yellowT", "price": "$44.00", "desc": "Sint occaecat deserunt ex incididunt qui sint. Id minim magna labore pariatur nulla quis.", "id": "9bdd2", "name": "Compton T-Shirt"}, {"color": "greyT", "price": "$33.00", "desc": "Ea labore sunt magna labore Lorem aliquip irure eu qui commodo minim sunt magna nisi. Deserunt fugiat ullamco excepteur pariatur fugiat occaecat ut quis ad.", "id": "f6be8", "name": "Comverges T-Shirt"}, {"color": "blackT", "price": "$16.00", "desc": "Quis dolor elit id qui nulla ea esse nulla velit. Occaecat Lorem laboris tempor proident ex.", "id": "b55da", "name": "Flexigen T-Shirt"}];
-
-var productObj = {"color": "yellowT", "price": "$44.00", "desc": "Sint occaecat deserunt ex incididunt qui sint. Id minim magna labore pariatur nulla quis.", "id": "9bdd2", "name": "Compton T-Shirt"};
-     
-</script>	  
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PW5MS5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PW5MS5');</script>
-<!-- End Google Tag Manager -->				
-
+	<body class="homepage">			
 			<!-- Header Wrapper -->
 			<div id="header-wrapper">
 
@@ -78,31 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</header>
 							<!-- </div> -->
 							<ul class="actions">
-								<li><a href="./data.html" class="button" onclick="
-function(productObj) {
-    alert('called');
-  dataLayer.push({
-    'event': 'productClick',
-    'ecommerce': {
-      'click': {
-        'actionField': {'list': 'Search Results'},      // Optional list property.
-        'products': [{
-          'name': productObj.name,                      // Name or ID is required.
-          'id': productObj.id,
-          'price': productObj.price,
-          'brand': productObj.brand,
-          'category': productObj.cat,
-          'variant': productObj.variant,
-          'position': productObj.position
-         }]
-       }
-     },
-     'eventCallback': function() {
-       document.location = productObj.url
-     }
-  });
-}								
-								">Go to the site</a></li>
+								<li><a href="./data.html" class="button">Go to the site</a></li>
 							</ul>
 						</section>
             <section class="6u feature">
