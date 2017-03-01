@@ -26,7 +26,7 @@
 					<div id="header" class="container">
 
 						<!-- Logo -->
-							<h1 id="logo"><a href="index.html">Back to homepage</a></h1>
+							<h1 id="logo"><a href="/">Back to homepage</a></h1>
 
 					</div>
 
@@ -58,7 +58,7 @@
 							</header>
 							<!-- </div> -->
 							<ul class="actions">
-								<li><a href="./data.html" class="button">Go to the site</a></li>
+								<li><a href="./data.php" class="button">Go to the site</a></li>
 							</ul>
 						</section>
             <section class="6u feature">
@@ -70,7 +70,7 @@
 							</header>
 							<!-- </div> -->
 							<ul class="actions">
-								<li><a href="./xdevice.html" class="button">Go to the site</a></li>
+								<li><a href="./xdevice.php" class="button">Go to the site</a></li>
 							</ul>
 					</div>
 				</div>
