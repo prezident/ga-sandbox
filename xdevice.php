@@ -26,7 +26,7 @@
 					<div id="header" class="container">
 
 						<!-- Logo -->
-							<h1 id="logo"><a href="index.html">Back to homepage</a></h1>
+							<h1 id="logo"><a href="/">Back to homepage</a></h1>
 
 					</div>
 
@@ -60,7 +60,7 @@
 							</header>
 							<!-- </div> -->
 							<ul class="actions">
-								<li><a href="./data.html" class="button">Go to the site</a></li> <li class="active">
+								<li><a href="./data.php" class="button">Go to the site</a></li> <li class="active">
 <a href="Javascript:void(0)"><div class="desktop">4. Review</div><div class="smartphone">2</div></a>
 </li>
 							</ul>
@@ -74,7 +74,7 @@
 							</header>
 							<!-- </div> -->
 							<ul class="actions">
-								<li><a href="./xdevice.html" class="button">Go to the site</a></li>
+								<li><a href="./xdevice.php" class="button">Go to the site</a></li>
 								<li><button type="button" class="go ss-button darkblue" aria-label="Go purchase at Littlewood's" onclick="$_retailerLocation('https://itrack.where-to-buy.co/wheretobuy/v1/WidgetClicks/?click=FFWmTQCDnHsSrNqp0Hj7lLgUBX7w840W8wCi6LkuRcV3%2BfLXtu4POtCuutUVXzBlYZNRa6dFgZbTvvRITzsMMOcN8DJRzRou1MDZVWqgZTr0DV5oop6XUzGXEsd0QzZmMxyw8hnUBolhINldRzKBgx2X1RnO9RKgNW2i9VYk1CU0wDOV0BIM%2BXygbpfXkggN7mP%2BLqOzf%2FZDAeWgaVWwtrG6De5ZS%2FHQP9jDLsSoqwMLaFJx9CkpaSiD1dBLzKMBBo%2BS%2FhB%2F8T026vYm3Pp6qJAzYdl%2FVKUxTN%2FOkuNoCOecn%2BxXYzfRG3wDf4nY689ZFXvWQ1jQ6rvT4W%2FaJXZOe2zpqGxInYrVJKhym0TCRM22xpvlyZKcl11m7xK0FJmbh%2FEGD74i6gHWF3nVJ2mjZPCwzGv13HYJB0Oka2hYYea5QiK4lEQDjJez4rO%2BTZqO%2BE7T%2BXBYZt3rBBKMbF7nRYLzgGbEG3pJ1GhKJ1kWwdZYdWsTSejm%2F2gvidXm%2F7%2Ba&amp;rUrl=aHR0cDovL3d3dy5oaWZpY29ycC5jby56YS9zYW1zdW5nLWdhbGF4eS1qMS1hY2UtbmVvLXNtLWoxMTFmLWJsaw%3D%3D&amp;ct=True','Makro.za');">GO-makro</button></li>
 								<li><button type="button" class="go ss-button darkblue" aria-label="Go purchase at Littlewood's" onclick="$_retailerLocation('https://itrack.where-to-buy.co/wheretobuy/v1/WidgetClicks/?click=FFWmTQCDnHsSrNqp0Hj7lLgUBX7w840W8wCi6LkuRcV3%2BfLXtu4POtCuutUVXzBlYZNRa6dFgZbTvvRITzsMMOcN8DJRzRou1MDZVWqgZTr0DV5oop6XUzGXEsd0QzZmMxyw8hnUBolhINldRzKBgx2X1RnO9RKgNW2i9VYk1CU0wDOV0BIM%2BXygbpfXkggN7mP%2BLqOzf%2FZDAeWgaVWwtrG6De5ZS%2FHQP9jDLsSoqwMLaFJx9CkpaSiD1dBLzKMBBo%2BS%2FhB%2F8T026vYm3Pp6qJAzYdl%2FVKUxTN%2FOkuNoCOecn%2BxXYzfRG3wDf4nY689ZFXvWQ1jQ6rvT4W%2FaJXZOe2zpqGxInYrVJKhym0TCRM22xpvlyZKcl11m7xK0FJmbh%2FEGD74i6gHWF3nVJ2mjZPCwzGv13HYJB0Oka2hYYea5QiK4lEQDjJez4rO%2BTZqO%2BE7T%2BXBYZt3rBBKMbF7nRYLzgGbEG3pJ1GhKJ1kWwdZYdWsTSejm%2F2gvidXm%2F7%2Ba&amp;rUrl=aHR0cDovL3d3dy5oaWZpY29ycC5jby56YS9zYW1zdW5nLWdhbGF4eS1qMS1hY2UtbmVvLXNtLWoxMTFmLWJsaw%3D%3D&amp;ct=True','HiFiCorp.za');">GO-Hifi</button></li>
 								<li><button type="button" class="go ss-button darkblue" aria-label="Go purchase at Littlewood's" onclick="">GO</button></li>  
